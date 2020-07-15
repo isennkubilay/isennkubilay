@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/X5TVGmA2mpfmo/giphy.gif" width="90px"></h2>
+### Hello World! <img src="https://media.giphy.com/media/X5TVGmA2mpfmo/giphy.gif" width="90px"></h2>
 
 I am a software engineer from Turkey🇹🇷 I describe myself as a Deep Learning Enthusiast. The third year of my university I met with deep learning. I love to code with Python. You can reach me on [hackerrank](https://www.hackerrank.com/isen_kubilay?hr_r=1), [datacamp](https://www.datacamp.com/profile/isenkubilay) and [repl.it](https://repl.it/@Kubilayen) 
 
@@ -35,6 +35,8 @@ Software Engineer at <a href="https://www.pirireis.com.tr/" target="_blank"><b>P
 <code><a href="https://git-scm.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 <code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
 <code><a href="https://opencv.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></a></code>
+<code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
+
 
 
 
