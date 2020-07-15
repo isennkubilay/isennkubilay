@@ -7,9 +7,7 @@ I am a software engineer from Turkey🇹🇷 I describe myself as a Deep Learnin
 Portfolio site: [Portfolio](https://kubilayisen.com/)
 
 
-
-
-### 📫 Where to find me
+**📫 Where to find me:**
 
 
 [![Twitter Badge](https://img.shields.io/badge/-@isenkubilay-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/isenkubilay)](https://twitter.com/isenkubilay) [![Linkedin Badge](https://img.shields.io/badge/-kubilayisen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kubilayisen/)](https://www.linkedin.com/in/kubilayisen/) 
