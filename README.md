@@ -2,6 +2,8 @@
 
 <img src="https://media.giphy.com/media/X5TVGmA2mpfmo/giphy.gif" width="90px"></h2>
 
+I am a software engineer from Turkey🇹🇷 I describe myself as a Deep Learning Enthusiast. The third year of my university I met with deep learning. I love to code with Python. 
+
 
 ### 📫 Where to find me
 
@@ -14,7 +16,7 @@
 
 Software Engineer at <a href="https://www.pirireis.com.tr/" target="_blank"><b>PiriReis Bilişim</b></a>
 
-**🌱 Currently working on:**
+**👨🏻‍💻 Currently working on:**
 
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></a></code>
@@ -32,8 +34,7 @@ Software Engineer at <a href="https://www.pirireis.com.tr/" target="_blank"><b>P
 
 
 
-
-**🌱 Looking forward to learn:**
+**⛰ Looking forward to learn:**
 
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
