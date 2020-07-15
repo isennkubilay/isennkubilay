@@ -1,8 +1,12 @@
-### Hi there 👋 
+### Hi there <img src="https://media.giphy.com/media/X5TVGmA2mpfmo/giphy.gif" width="90px"></h2>
 
-<img src="https://media.giphy.com/media/X5TVGmA2mpfmo/giphy.gif" width="90px"></h2>
+I am a software engineer from Turkey🇹🇷 I describe myself as a Deep Learning Enthusiast. The third year of my university I met with deep learning. I love to code with Python. You can reach me on [hackerrank](https://www.hackerrank.com/isen_kubilay?hr_r=1), [datacamp](https://www.datacamp.com/profile/isenkubilay) and [repl.it](https://repl.it/@Kubilayen) 
 
-I am a software engineer from Turkey🇹🇷 I describe myself as a Deep Learning Enthusiast. The third year of my university I met with deep learning. I love to code with Python. 
+😄 Pronouns: he/him
+
+Portfolio site: [Portfolio](https://kubilayisen.com/)
+
+
 
 
 ### 📫 Where to find me
