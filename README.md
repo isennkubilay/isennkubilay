@@ -22,6 +22,17 @@ Software Engineer at <a href="https://www.pirireis.com.tr/" target="_blank"><b>P
 <code><a href="https://www.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
 <code><a href="https://www.oracle.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></a></code>
 
+**💬 Ask me about:**
+
+<code><a href="https:///" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
+<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+<code><a href="https://git-scm.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
+<code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
+<code><a href="https://opencv.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></a></code>
+
+
+
+
 **🌱 Looking forward to learn:**
 
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
@@ -32,7 +43,7 @@ Software Engineer at <a href="https://www.pirireis.com.tr/" target="_blank"><b>P
 
 
 
-![Kubilay's github stats](https://github-readme-stats.vercel.app/api?username=isennkubilay&show_icons=true&line_height=30&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Kubilay's github stats](https://github-readme-stats.vercel.app/api?username=isennkubilay&show_icons=true&line_height=30)
 
 [![HitCount](http://hits.dwyl.com/isennkubilay/isennkubilay.svg)](http://hits.dwyl.com/isennkubilay/isennkubilay)
 
