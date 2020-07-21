@@ -1,6 +1,6 @@
 ### Hello World! 
 
-<img src="https://media.giphy.com/media/X5TVGmA2mpfmo/giphy.gif" width="90px"></h2> <img align="right" src="https://github-readme-stats.vercel.app/api?username=isennkubilay&show_icons=true&line_height=30&theme=tokyonight" alt="Kubilay's github stats" /></a>
+<img src="https://media.giphy.com/media/X5TVGmA2mpfmo/giphy.gif" width="90px"></h2> <img align="right" src="https://github-readme-stats.vercel.app/api?username=isennkubilay&show_icons=true&line_height=30&theme=cobalt" alt="Kubilay's github stats" /></a>
 
 
 I am a software engineer from Turkey🇹🇷 I describe myself as a Deep Learning Enthusiast. The third year of my university I met with deep learning. I love to code with Python. You can reach me on [hackerrank](https://www.hackerrank.com/isen_kubilay?hr_r=1), [datacamp](https://www.datacamp.com/profile/isenkubilay) and [repl.it](https://repl.it/@Kubilayen) 
@@ -44,8 +44,6 @@ Portfolio site: [Portfolio](https://kubilayisen.com/)
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://aws.amazon.com/?nc1=h_ls" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
-
-
 
 
 
