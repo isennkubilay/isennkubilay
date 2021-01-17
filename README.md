@@ -1,4 +1,4 @@
-### Hello World!  
+### Hello World! 
 
 <img src="https://media.giphy.com/media/X5TVGmA2mpfmo/giphy.gif" width="90px"></h2> 
 
@@ -44,3 +44,7 @@ Portfolio site: [Portfolio](https://kubilayisen.com/)
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://aws.amazon.com/?nc1=h_ls" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
+
+
+
+
