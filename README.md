@@ -5,10 +5,7 @@
 
 I am a software engineer from Turkey🇹🇷 I describe myself as a Deep Learning Enthusiast. The third year of my university I met with deep learning. I love to code with Python. You can reach me on [hackerrank](https://www.hackerrank.com/isen_kubilay?hr_r=1), [codewars](https://www.codewars.com/users/kisen), [datacamp](https://www.datacamp.com/profile/isenkubilay) and [repl.it](https://repl.it/@Kubilayen)
 
-
-😄 Pronouns: he/him
-
-Portfolio site: [Portfolio](https://kubilayisen.com/)
+[Portfolio](https://kubilay.bio.link/)
 
 
 **📫 Where to find me:** 
