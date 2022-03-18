@@ -5,7 +5,7 @@
 
 I am a software engineer from Turkey🇹🇷 I love to code with Python. You can reach me on [hackerrank](https://www.hackerrank.com/isen_kubilay?hr_r=1), [codewars](https://www.codewars.com/users/kisen), [datacamp](https://www.datacamp.com/profile/isenkubilay) and [repl.it](https://repl.it/@Kubilayen)
 
-[Portfolio](https://kubilay.bio.link/) and [My Developer Notes](https://kubilayisen.dev)
+[Portfolio](https://kubilay.bio.link/) and [My Dev Notes](https://kubilayisen.dev)
 
 
 **📫 Where to find me:** 
