@@ -23,6 +23,7 @@ I am a software engineer from Turkey🇹🇷 I love to code with Python. You can
 <code><a href="https://www.elastic.co/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/istioio/istioio-ar21.svg"></a></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://www.oracle.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></a></code>
+<code><a href="https://www.oracle.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
 
 
 **💬 Ask me about:** 
@@ -33,4 +34,5 @@ I am a software engineer from Turkey🇹🇷 I love to code with Python. You can
 <code><a href="https://www.jenkins.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></a></code>
 <code><a href="https://helm.sh/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-ar21.svg"></a></code>
 <code><a href="https://www.elastic.co/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
+<code><a href="https://www.elastic.co/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-ar21.svg"></a></code>
 
