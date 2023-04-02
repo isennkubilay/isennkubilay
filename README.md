@@ -1,6 +1,6 @@
 ### Hello World! 
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120px"></h2> 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240px"></h2> 
 
 I am a software engineer from Turkey🇹🇷 I love to code with Python. You can reach me on [hackerrank](https://www.hackerrank.com/isen_kubilay?hr_r=1), [codewars](https://www.codewars.com/users/kisen), [datacamp](https://www.datacamp.com/profile/isenkubilay) and [repl.it](https://repl.it/@Kubilayen)
 
